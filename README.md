@@ -1,2 +1,2 @@
 # dubbo
-apache-dubbo-demo
+dubbo的简单demo
